@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{4A9610D3-96DE-4C63-96C6-0AD2F43D8805}|Default">
-  <MonoDevelop.Ide.ItemProperties.Vidly FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Vidly PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vidly/wwwroot/lib/bootstrap/dist/css/bootstrap-lumen.css">
+    <Files>
+      <File FileName="Vidly/Models/Movie.cs" Line="11" Column="10" />
+      <File FileName="Vidly/Controllers/MoviesController.cs" Line="17" Column="32" />
+      <File FileName="Vidly/Controllers/HomeController.cs" Line="10" Column="10" />
+      <File FileName="Vidly/Views/Movies/Random.cshtml" Line="9" Column="22" />
+      <File FileName="Vidly/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Vidly/Program.cs" Line="12" Column="2" />
+      <File FileName="Vidly/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="Vidly/bundleconfig.json" Line="1" Column="1" />
+      <File FileName="Vidly/wwwroot/lib/bootstrap/.bower.json" Line="2" Column="12" />
+      <File FileName="Vidly/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="1" Column="1" />
+      <File FileName="Vidly/wwwroot/lib/bootstrap/dist/css/bootstrap-lumen.css" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
